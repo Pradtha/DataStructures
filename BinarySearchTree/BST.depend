@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378229829 source:c:\dev-cpp\bin\ds_classes\bst\main.cpp
+	<iostream>
+	<conio.h>
+
